@@ -1,4 +1,4 @@
-Title: About
+Title: about
 Date: 2010-01-03 10:20
 
 I'm a man.
