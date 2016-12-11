@@ -3,30 +3,28 @@ Date: 2011-10-03 10:20
 
 ## professional
 
-#### High-throughput Infrastructure for Movement Analysis
-Make something about this here
+[Thesis](https://amaral.northwestern.edu/resources/software/waldo)
+Quantifying Complex Behavioral Phenotypes in C. elegans ([pdf](https://amaral.northwestern.edu/resources/software/waldo),[slides](https://amaral.northwestern.edu/resources/software/waldo))
 
-#### Identity recognition of Interacting Micro-organisms
-A link to waldo project home
+[WALDO](https://amaral.northwestern.edu/resources/software/waldo)
+Identity recognition of interacting micro-organisms (C. elegans)
+in Video Data.
 
-#### Detection of Meaningful Health Metrics
-The code that created this website.
+[StaFS](https://github.com/amarallab/worm_behavior)
+(Repo Still Private) Stable Feature Selection to Discover of Meaningful Health Metrics.
 
 ## personal
+A more extensive list of my personal coding projects is available on [github](https://github.com/peterwinter/). It includes projects such as:
 
-#### personal website
-The code that created this website.
+[The Sourcecode for peterbwinter.com](https://github.com/peterwinter/personal_website)
+This site is powered by python, pelican, jinja, and wergzeug.
 
-#### spaceback
-command line tool for managing my spacemacs configs
+
+[spaceback](https://github.com/peterwinter/spaceback)
+A command line tool for managing my spacemacs configs
 Style: functional programming.
 
-#### boxcluster
+[boxcluster](https://github.com/peterwinter/boxcluster)
 Data-analysis (network modularity maximization, matrix sorting, boxcutting)
+with a set of [tutorial notebooks](https://github.com/peterwinter/boxcluster_tutorial).
 Style: object-oriented
-
-#### boxcluster_tutorial
-Jupyter notebooks walking through the uses of boxcluster.
-
-#### resume
-For the latex lovers!

@@ -5,7 +5,7 @@ Date: 2015-01-01 10:20
 Work: [Amaral Lab](https://amaral.northwestern.edu/people/winter/)
 
 
-Linkdn: [ peter-winter](https://www.linkedin.com/in/peter-winter)
+Linked in: [ peter-winter](https://www.linkedin.com/in/peter-winter)
 
 
 Github: [ peterwinter](https://github.com/peterwinter)
