@@ -3,13 +3,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'peter winter'
-SITENAME = 'Peter B Winter'
+SITENAME = 'Peter B Winter PhD'
 SITEURL = ''
 
 STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
-# ARTICLE_PATHS = []
+ARTICLE_PATHS = ['blog']
 PAGE_ORDER_BY = 'date'
 
 PATH = 'content'
@@ -29,10 +29,6 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 Links = ()
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('email', 'peterwinteriii@gmail.com'),
@@ -43,9 +39,9 @@ SOCIAL = (('email', 'peterwinteriii@gmail.com'),
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
-BIO = "I'm a man"
+BIO = "Data Scientist"
 PROFILE_IMAGE = "avatar.jpg"
 
 DISQUS_SITENAME = "peterbwinter"
