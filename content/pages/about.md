@@ -1,17 +1,27 @@
 Title: about
 Date: 2010-01-03 10:20
 
-I'm a Data Scientist working at
-[Northwestern University](https://amaral.northwestern.edu/people/winter/)
-to
-build tools
-for biologists to extract health information from the movement of micro-organisms
+I'm a Data Scientist working as a postdoctoral fellow at
+[Northwestern University](https://amaral.northwestern.edu/people/winter/) in the Amaral and Morimoto laboratories.
 
-I using machine-learning to extract the most important properties of an animal's posture and movement behavior.
+I did some research.
+Here's my [PhD Thesis]({filename}/pdfs/PeterWinter-Dissertation.pdf).
 
-Here's a [pdf]({filename}/pdfs/PeterWinter-Dissertation.pdf)
-of my PhD Thesis.
+That developed some skills.
+Here's my [resume]({filename}/pdfs/main.pdf).
 
-Here's my [resume]({filename}/pdfs/main.pdf)
+I'm interested in using my skills in some other situations.
 
-Possibly, you are interested in some of my [projects]({filename}/pdfs/main.pdf)
+<!-- and applying this to all types of data ranging from worms to -->
+
+
+<!-- Concrete -->
+
+<!-- I enjoy experimenting, learning, and taking pride in the things I create. -->
+<!-- I view daily tasks like cooking or editing text as things I can refine and improve with deliberate practice. -->
+<!-- I enjoy jumping into thick of things and learning on the fly. -->
+
+<!-- Heck, for fun I coded this site in two days as a side project using pelican and set up free web hosting with github. -->
+<!-- I did this because I had no knowledge about web-development and it seemed like the best way to get a crash course. -->
+
+<!-- Possibly, you are interested in some of my [projects]({filename}/pdfs/main.pdf) -->
