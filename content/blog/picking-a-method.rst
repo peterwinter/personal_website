@@ -1,8 +1,8 @@
 Picking a Method
 ################
 
-:date: 2015-10-03 10:20
-:modified: 2010-10-04 18:40
+:date: 2015-02-15 10:20
+:modified: 2015-02-15 10:20
 :tags: thats, awesome
 :slug: picking-method
 :authors: Peter B Winter
@@ -21,5 +21,3 @@ I recently read a paper that compared tens of thousands of equally-spaced univar
 It seems like a new type of search is on the verge of becoming widely available. We are hitting a critical-mass in three factors: (1) the number of freely available online datasets (2) the amount of open-source methods that can be downloaded and easily implemented (3) and the speed of processing a large number of methods. Even so, it will be a lot of work for anyone to set up a user-friendly platform for evaluating which computational methods are usable for a given data set.
 
 Give it five to ten years, but Picking a Method will be trivial.
-
-(image credit: pppst.com)
