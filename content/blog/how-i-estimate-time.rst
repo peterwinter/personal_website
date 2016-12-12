@@ -1,15 +1,15 @@
 How I Estimate Time
 ###################
 
-:date: 2010-10-03 10:20
-:modified: 2010-10-04 18:40
+:date: 2016-08-10 10:20
+:modified: 2016-08-10 10:20
 :tags: thats, awesome
 :slug: how-I-estimate-time
 :authors: Peter B Winter
-:summary: A key aspect of working with other people is being able to accurately estimate how long it will take me to do something. I'll be in a meeting with my collaborators, talking, brainstorming, and making plans when someone will say: 'I like this idea, how long do you think it will take you to do it?'
+:summary: A key aspect of working with other people is being able to accurately estimate how long it will take me to do something. I'll be in a meeting with my collaborators, talking, brainstorming, and making plans when someone will say: "I like this idea, how long do you think it will take you to do it?"
 
 
-A key aspect of working with other people is being able to accurately estimate how long it will take me to do something. I'll be in a meeting with my collaborators, talking, brainstorming, and making plans when someone will say: 'I like this idea, how long do you think it will take you to do it?'
+A key aspect of working with other people is being able to accurately estimate how long it will take me to do something. I'll be in a meeting with my collaborators, talking, brainstorming, and making plans when someone will say: "I like this idea, how long do you think it will take you to do it?"
 
 Usually, at this point, a hypothetical completion date with no factual basis will pop into my head. Over 95% of the time, this estimate is radically optimistic.
 
@@ -21,7 +21,8 @@ This outcome is both silly and completely avoidable. I could have said a realist
 
 Supposedly, some people are good at estimating time. I doubt this skill is innate, and I'd like to be better at it. So, I've started training.
 
-h2. Strategy 1: Scaled Guestimation
+Strategy 1: Scaled Guestimation
+-------------------------------
 
 This is more of a heuristic than real strategy. I take the first time estimate that pops into my head and double it.
 
@@ -33,7 +34,8 @@ Still, I'm pretty sure this technique improves my estimates. Occasionally I over
 
 To really get better at estimating time, I'm going to need data.
 
-h2. Strategy 2: Predict and Validate
+Strategy 2: Predict and Validate
+--------------------------------
 
 This approach takes significantly more effort. It involves constantly estimating and testing how long it takes me to accomplish my work. I've developed some rituals.
 
