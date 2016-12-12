@@ -2,8 +2,8 @@ Coding in Emacs and PyCharm
 ###########################
 
 :date: 2015-10-03 10:20
-:modified: 2010-10-04 18:40
-:tags: thats, awesome
+:modified: 2015-10-03 10:20
+:tags: tools, emacs
 :slug: emacs-and-pycharm
 :authors: Peter B Winter
 :summary: While I'm paid to do research, much of my daily activities involve programming. As such, I like to experiment with ways to make writing code simpler and faster by playing around with my development environment.
@@ -19,5 +19,3 @@ PyCharm, on the other hand, is polished and immediately useful. It has been writ
 Now, it isn't easy to say if one development environment is better than the other. Each side has its' own advantages. If I had to pick my favorite features from each, I like Emacs' windowing system (to look at multiple files at once), and its' snippet features (for quickly pasting in generic, reusable pieces of code). On PyCharm, I like its' debugger, it's refactoring tools (renaming or moving modules/functions/variables and updating all occurrences), and its' hovering reminders and style advice.
 
 I'll likely continue to switch back and forth between PyCharm and Emacs for a while. At this point, I can write new code faster in Emacs, but my refactoring is faster in PyCharm. If I had to recommend one for new programmers or people who haven't yet experienced a decked-out python development environment, I'd defiantly recommend PyCharm.
-
--- Peter
