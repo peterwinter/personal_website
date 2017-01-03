@@ -1,3 +1,8 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:peterwinter/peterwinter.github.io.git
+
+
+[submodule "content"]
+	path = content
+	url = git@github.com:peterwinter/blog_content.git
